@@ -4,6 +4,5 @@
 
 - 📫 How to reach me:
   
-       pedroschlee@gmail.com
-  
-       linkedin.com/in/pedro-s-monsalve/
+     -  pedroschlee@gmail.com
+     -  linkedin.com/in/pedro-s-monsalve/
