@@ -4,6 +4,7 @@
 - 📊 Exploring the intersection of software development, data, and analytics
 - 🤖 Using Generative AI to solve problems and improve development workflows
 - 🚀 Always learning, building, and looking for new challenges
+<br>
 
 - 📫 How to reach me:
   - [pedroschlee@gmail.com](mailto:pedroschlee@gmail.com)
